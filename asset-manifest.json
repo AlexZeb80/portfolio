@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AlexZeb80/portfolio.git/static/css/main.d6c71920.css",
+    "main.js": "/AlexZeb80/portfolio.git/static/js/main.2e91436a.js",
+    "static/media/project1.png": "/AlexZeb80/portfolio.git/static/media/project1.ba058ed3665d069c32ad.png",
+    "static/media/project2.png": "/AlexZeb80/portfolio.git/static/media/project2.2376dba543aa26b86ebf.png",
+    "static/media/6.png": "/AlexZeb80/portfolio.git/static/media/6.473a3727c08710ad700d.png",
+    "static/media/project3.png": "/AlexZeb80/portfolio.git/static/media/project3.250c5b9a05130c82c5e8.png",
+    "static/media/project4.png": "/AlexZeb80/portfolio.git/static/media/project4.ace4f35514cee4fc84e8.png",
+    "static/media/developer.jpeg": "/AlexZeb80/portfolio.git/static/media/developer.1f773529f23b75c167fb.jpeg",
+    "static/media/project5.png": "/AlexZeb80/portfolio.git/static/media/project5.552a8b1ae99b9df75f55.png",
+    "static/media/project6.png": "/AlexZeb80/portfolio.git/static/media/project6.b623c0f138d1c850543d.png",
+    "index.html": "/AlexZeb80/portfolio.git/index.html",
+    "main.d6c71920.css.map": "/AlexZeb80/portfolio.git/static/css/main.d6c71920.css.map",
+    "main.2e91436a.js.map": "/AlexZeb80/portfolio.git/static/js/main.2e91436a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c71920.css",
+    "static/js/main.2e91436a.js"
+  ]
+}
